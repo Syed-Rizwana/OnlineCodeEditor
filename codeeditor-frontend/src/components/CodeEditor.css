@@ -1,0 +1,21 @@
+/* CodeEditor.css */
+
+.CodeEditorContainer {
+    margin-top: 20px;
+}
+
+.CodeEditorHeader {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.CodeEditorWrapper {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.CodeEditor {
+    width: 100%;
+    height: 400px;
+}

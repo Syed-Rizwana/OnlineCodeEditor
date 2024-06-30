@@ -1,0 +1,23 @@
+/* App.css */
+
+.App {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.editor-container {
+  width: 45%;
+}
+
+.language-selector {
+  margin-bottom: 20px;
+}
+
+.output-container {
+  width: 45%;
+}
+
+button {
+  margin-top: 10px;
+}
